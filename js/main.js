@@ -46,7 +46,7 @@ rec.onresult = function (evt) {
 		resultUser++;
 	}
 
-	input.value = `Computer		 ${resultComp} : ${resultUser}		 You`;
+	input.value = `Kompyuter		 ${resultComp} : ${resultUser}		 Siz`;
 };
 
 
